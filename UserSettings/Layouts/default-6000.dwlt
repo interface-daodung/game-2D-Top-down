@@ -329,8 +329,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Tile Palette\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 934.4
-    y: 79.200005
+    x: 935.4
+    y: 24
     width: 311.59998
     height: 382.8
   m_SerializedDataModeController:
@@ -394,7 +394,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79.200005
+    y: 24
     width: 288.6
     height: 382.8
   m_SerializedDataModeController:
@@ -459,8 +459,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 289.6
-    y: 79.200005
+    x: 290.6
+    y: 24
     width: 642.80005
     height: 382.8
   m_SerializedDataModeController:
@@ -1369,7 +1369,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 488
+    y: 432.8
     width: 1247
     height: 282
   m_SerializedDataModeController:
@@ -1413,7 +1413,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 79}
     m_SelectedIDs: e8be0000
     m_LastClickedID: 48872
-    m_ExpandedIDs: 0000000074be000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000006ebe0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1442,7 +1442,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000074be0000
+    m_ExpandedIDs: 000000006ebe0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1596,8 +1596,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1248
-    y: 79.200005
+    x: 1249
+    y: 24
     width: 287
     height: 690.8
   m_SerializedDataModeController:
