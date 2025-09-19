@@ -53,7 +53,7 @@ public class BossEnemy : Enemy
     {
         int skillIndex = Random.Range(0, 3);
 
-        switch (0)
+        switch (skillIndex)
         {
             case 0:
                 fireBullet();
